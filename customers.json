@@ -1,0 +1,24 @@
+{
+    "firstname": "Prina",
+    "lastname":"Tamang",
+    "age": 20,
+    "address":
+    {
+        "streetaddress": "ward no 2",
+        "City": "Kathmandu",
+        "state":"Bagmati",
+        "Postalcode":"44600"
+    },
+    "phonenumber":
+    [
+    {
+        "type": "home",
+        "number": "9849149015"
+    },
+    {
+        "type":"fax",
+        "number":"9849149018"
+    }
+]
+
+}
