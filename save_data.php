@@ -16,10 +16,10 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     // Connect to the database (replace placeholders with actual credentials)
     $servername = "localhost";
     $username = "root";
-    $password = "root";
+    $password = "";
     $dbname = "teacher";
 
-    $conn = new mysqli('localhost', 'root', 'root', 'teacher');
+    $conn = new mysqli('localhost', 'root', ' ', 'teacher');
 
 
     // Check connection
